@@ -1,0 +1,11 @@
+.cache/
+__pycache__/
+.vscode/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.py[cod]
+dataset/
+training_results/
